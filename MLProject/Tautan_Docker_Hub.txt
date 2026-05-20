@@ -1,0 +1,1 @@
+https://hub.docker.com/repository/docker/d4vd/sml-fraud-model
